@@ -29,6 +29,7 @@ html , body {
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 1fr;
     grid-gap: 5px;
+    box-shadow: 0 5px 5px 0;
 }
 
 .main {
@@ -56,6 +57,7 @@ html , body {
     border-left: 10px solid brown;
     border-radius: 10px;
     background-color: aliceblue;
+    box-shadow: 0 5px 7px 0;
 }
 
 .asides {
